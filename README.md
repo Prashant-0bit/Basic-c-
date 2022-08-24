@@ -1,2 +1,2 @@
-# Basic-c-
+# Basic-c++
 beginner to intermediate level
